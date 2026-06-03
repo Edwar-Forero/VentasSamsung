@@ -1,4 +1,4 @@
-# 1. Contexto del Reto
+# 1. Contexto del proyecto
 
 En muchas organizaciones, las áreas comerciales y operativas generan grandes volúmenes de datos relacionados con ventas, inventarios y comportamiento de los clientes. Sin embargo, en muchos casos esta información no se utiliza de manera efectiva para entender patrones del negocio ni para anticipar lo que podría ocurrir en el futuro.
 
@@ -22,14 +22,14 @@ Adicionalmente, esperamos que el modelo permita generar predicciones con un nive
 
 Finalmente, requerimos que los resultados del análisis sean presentados en un dashboard claro e interactivo, que nos permita visualizar rápidamente el comportamiento de los datos, comprender los hallazgos del análisis y facilitar la toma de decisiones.
 
-# 3. Objetivo del reto:
+# 3. Objetivo del proyecto:
 
 Analizar un conjunto de datos simulados relacionados con ventas e inventarios por cliente y producto, con el fin de identificar patrones relevantes en la información, desarrollar un modelo predictivo y estimar el comportamiento futuro de algunos indicadores clave del negocio.
 
 Los principales indicadores que se desean analizar o predecir son:
 
 Ventas futuras por producto y cliente
-Estimar el volumen de ventas esperado en próximos periodos a partir del comportamiento histórico. (En este punto pueden escoger cual será el periodo que analizaran, mensual, anual, etc)
+Estimar el volumen de ventas esperado en próximos periodos a partir del comportamiento histórico. 
 Identificar qué productos podrían presentar mayor o menor demanda en el futuro.
 Detectar situaciones en las que los niveles de inventario podrían no ser suficientes para cubrir la demanda estimada.
-Los resultados del análisis deberán comunicarse mediante visualizaciones claras y un dashboard interactivo que permita interpretar fácilmente los datos. (opcional)
+Los resultados del análisis deberán comunicarse mediante visualizaciones claras.
